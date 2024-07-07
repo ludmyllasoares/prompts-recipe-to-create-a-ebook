@@ -67,11 +67,12 @@ Utilize os prompts de sua preferência nas ferramentas sugeridas para gerar o ma
 ## 👨‍💻 Expert
 
 <p>
-   
+   &nbsp;|&nbsp;
     <p>&nbsp&nbsp&nbspLudmylla Soares<br>
-    &nbsp&nbsp&nbsp
+   &nbsp;|&nbsp;
     <a href="https://github.com/ludmyllasoares">
-    GitHub</a>&nbsp;|&nbsp;
+    GitHub</a>
+&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/ludmyllasoares/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/ludmylla_osoares/">
