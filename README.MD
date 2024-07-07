@@ -44,7 +44,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco em IA Generativa, listando as principais dicas de uso, hacks e prompts inteligentes {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de prompts em contextos reais, deixando um título sugestivo por tópico |
 
 
-Midjourney：
+NightCafe：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -72,10 +72,9 @@ Utilize os prompts de sua preferência nas ferramentas sugeridas para gerar o ma
     &nbsp&nbsp&nbsp
     <a href="https://github.com/ludmyllasoares">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-ludmyllasoares">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/ludmyllasoares/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/ludmyllao_soares/">
+    <a href="https://www.instagram.com/ludmylla_osoares/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
