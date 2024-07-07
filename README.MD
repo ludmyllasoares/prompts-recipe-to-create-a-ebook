@@ -40,9 +40,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título para um ebook sobre ia generativa. O público do ebook é composto por desenvolvedores iniciantes em inteligência artificial e o objetivo é oferecer hacks, dicas e prompts inteligentes. O título deve ser épico, curto e ter uma temática de ficção científica. Liste 5 variações de títulos. |   
-|  título  | Combine essas duas opções para gerar novos insights poderosos para o título do e-book
-"Neurônios Sintéticos: Segredos da IA para Iniciantes"
-"Matrix da Mente: Hacks e Prompts para IA Generativa"    | 
+|  título  | Combine essas duas opções para gerar novos insights poderosos para o título do e-book "Neurônios Sintéticos: Segredos da IA para Iniciantes" "Matrix da Mente: Hacks e Prompts para IA Generativa"    | 
 | conteúdo | Faça um texto para ebook, com foco em IA Generativa, listando as principais dicas de uso, hacks e prompts inteligentes {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de prompts em contextos reais, deixando um título sugestivo por tópico |
 
 
