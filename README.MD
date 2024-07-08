@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/CapaEbook.png"
     width="400"  
 />
 </p>
@@ -24,7 +24,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts utilizados foram descritos abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ludmyllasoares/prompts-recipe-to-create-a-ebook/blob/My-own-book/output/Ebook_Bootcamp_Santander.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
